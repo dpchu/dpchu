@@ -6,7 +6,8 @@ three.js, React, .Net, and Godot.
 
 ## Other Links ##
 [Horse Drawn Comics](https://horsedrawncomics.com) My webcomics.<br />
-[DC Orange Tech](https://dcorangetech.com) My freelancer site.
+[DC Orange Tech](https://dcorangetech.com) My freelancer site.<br />
+[Dchoung.com](https://dchoung.com) My blog.
 <!--
 **dpchu/dpchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
