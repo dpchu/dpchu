@@ -5,9 +5,9 @@ three.js, React, .Net, and Godot.
 :hourglass_flowing_sand: "Dreams are messages from the deep."
 
 ## Other Links ##
-[Horse Drawn Comics](https://horsedrawncomics.com) My webcomics.<br />
-[DC Orange Tech](https://dcorangetech.com) My freelancer site.<br />
-[Dchoung.com](https://dchoung.com) My blog.
+[Horse Drawn Comics](https://horsedrawncomics.com?tag=github) My webcomics.<br />
+[DC Orange Tech](https://dcorangetech.com?tag=github) My freelancer site.<br />
+[Dchoung.com](https://dchoung.com?tag=github) My blog.
 <!--
 **dpchu/dpchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
